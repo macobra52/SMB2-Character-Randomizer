@@ -1,4 +1,4 @@
-SMB2 Character Randomizer V0.22 Beta
+SMB2 Character Randomizer V0.23 Beta
 By MaCobra52
 
 

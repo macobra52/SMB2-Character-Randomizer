@@ -1,3 +1,7 @@
+### This randomizer is no longer being developed. Please go here for future updates: https://github.com/macobra52/SMB2-Randomizer
+
+---
+
 SMB2 Character Randomizer V0.24 Beta
 
 By MaCobra52
